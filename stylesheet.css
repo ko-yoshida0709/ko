@@ -3,7 +3,7 @@ header{
   text-align:center;
 }
 header h1{color:white;}
-.heading{font-size: 25px; padding-bottom: 0px; color: red; font-weight: bold;}
+.heading{font-size: 25px; padding-bottom: 0px; color: red; font-weight: 900;}
 .a{margin-left: 25px; margin-top: 5px;}
 .b{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
 .c{margin-left: 25px; margin-bottom: 5px; margin-top: 20px;}
