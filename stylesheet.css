@@ -3,12 +3,12 @@ header{
   text-align:center;
 }
 header h1{color:white;}
-.heading{font-size: 25px; padding-bottom: 0px; color: red;　font-weight: 600;}
+.heading{font-size: 25px; padding-bottom: 0px; color: red; font-weight: 600;}
 .a{margin-left: 25px; margin-top: 5px;}
 .b{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
 .c{margin-left: 25px; margin-bottom: 5px; margin-top: 20px;}
 .d{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
-.e{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
+.e{margin-left: 25px; margin-top: 10px; margin-bottom: 5px;}
 .f{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
 .g{margin: 6px 25px;}
 .li{width:33%; float:left;}
