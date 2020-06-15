@@ -5,7 +5,7 @@ header{
 }
 header h1{color:white;}
 .heading{font-size: 25px; padding-bottom: 0px; color: #C65911; font-weight: 900;}
-.a{margin-left: 25px; margin-top: 5px;}
+.a{margin-left: 25px; margin-top: 5px; margin-bottom:5px;}
 .b{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
 .c{margin-left: 25px; margin-bottom: 5px; margin-top: 20px;}
 .d{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
@@ -34,13 +34,7 @@ a:hover::after {
   transform: scale(1, 1);
 }
 
-
-
-
-
-
-
-
-
-
-
+li {
+  list-style: none;
+  margin-left: -20px;
+}
