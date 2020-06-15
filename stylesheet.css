@@ -1,6 +1,7 @@
 header{
   background-color: darkblue;
   text-align:center;
+  font-family: 'メイリオ', 'Meiryo', sans-serif;
 }
 header h1{color:white;}
 .heading{font-size: 25px; padding-bottom: 0px; color: #C65911; font-weight: 900;}
